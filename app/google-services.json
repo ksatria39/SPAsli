@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606180062438",
+    "project_id": "spasli",
+    "storage_bucket": "spasli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606180062438:android:706864d1a3fb81bc477727",
+        "android_client_info": {
+          "package_name": "com.example.spasli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606180062438-vudvqbpudc4du4bd7dq6c47vunk8hr82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksTLmWsnv6tG6sBsEizKESVOUJ9ESCKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606180062438-vudvqbpudc4du4bd7dq6c47vunk8hr82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
